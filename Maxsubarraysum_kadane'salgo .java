@@ -1,4 +1,5 @@
 // Question :Print maximum subarray sum and the subarray
+//kadanes algorithm
 import java.util.*;
 class Maxsubarraysum  {
     public static void main(String[] args) {
