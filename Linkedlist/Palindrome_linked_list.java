@@ -26,3 +26,5 @@ class Solution {
         }
         return true;
     }
+    //Time Complexity:O(N)
+    //Space Complexity:O(1)
